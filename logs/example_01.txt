@@ -1,5 +1,1 @@
 [wirtable]  this_is_my
-[wirtable]  custom_readable
-[wirtable]  custom_readable
-[wirtable]  custom_readable
-Process finished
